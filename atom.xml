@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://spoonit.github.io/atom.xml" rel="self"/>
   <link href="http://spoonit.github.io/"/>
-  <updated>2016-05-25T10:27:29-07:00</updated>
+  <updated>2016-05-25T13:19:32-07:00</updated>
   <id>http://spoonit.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Getting Started]]></title>
+    <title type="html"><![CDATA[Getting started]]></title>
     <link href="http://spoonit.github.io/blog/2016/05/24/getting-started/"/>
     <updated>2016-05-24T13:48:38-07:00</updated>
     <id>http://spoonit.github.io/blog/2016/05/24/getting-started</id>
