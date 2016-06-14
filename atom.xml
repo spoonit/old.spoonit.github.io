@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My thoughts]]></title>
   <link href="http://spoonit.github.io/atom.xml" rel="self"/>
   <link href="http://spoonit.github.io/"/>
-  <updated>2016-05-25T14:06:20-07:00</updated>
+  <updated>2016-06-13T17:29:33-07:00</updated>
   <id>http://spoonit.github.io/</id>
   <author>
     <name><![CDATA[Jesus Rios]]></name>
@@ -18,7 +18,7 @@
     <link href="http://spoonit.github.io/blog/2016/05/24/getting-started/"/>
     <updated>2016-05-24T13:48:38-07:00</updated>
     <id>http://spoonit.github.io/blog/2016/05/24/getting-started</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Go out and do something!</p>
 ]]></content>
   </entry>
   
